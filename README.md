@@ -16,17 +16,18 @@ This project focuses on training a Deep Neural Network to play the snake game us
 ## How to Run
 
 1. Clone this repository
-   \```
+   ```batch
    git clone https://github.com/<Your-Username>/snake-game-ai.git
-   \```
+   ```
 2. Navigate to the project directory
 
 3. Install required packages
-   \```
+
+   ```batch
    pip install -r requirements.txt
-   \```
+   ```
 
 4. Run the main script
-   \```
+   ```batch
    python snake_game_ai.py
-   \```
+   ```
